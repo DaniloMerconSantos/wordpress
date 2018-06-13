@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'root');
 
 /** Nome do host do MySQL */
-define('DB_HOST', '0.0.0.0:3306');
+define('DB_HOST', 'wordpress-mysql:3306');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
